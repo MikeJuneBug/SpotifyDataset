@@ -23,9 +23,9 @@ Danceability  - ranging from 0 to 1 - the Oasis tracks seem to mostly fall aroun
 
 The most danceable track is Guess God Thinks I'm Abel from Don't Believe the Truth which Spotify rates at a higher danceability rating above Dancing Queen
 
-Oasis album tempos:
+Oasis album song tempos:
 ![image](https://user-images.githubusercontent.com/106621067/213140992-e9b9f975-dd6e-454e-978f-2080e1167b0a.png)
 
-Oasis album keys (0 = C, 2 = D, 4 = E ...)
+Oasis album song keys (0 = C, 2 = D, 4 = E ...)
 ![image](https://user-images.githubusercontent.com/106621067/213141320-b855038e-c4cd-46b5-8119-cde88f954559.png)
 
